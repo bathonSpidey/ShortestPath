@@ -7,7 +7,7 @@ namespace ShortestPath
 	/// Initially started with:
 	/// https://medium.com/outco/how-to-build-a-graph-data-structure-d779d822f9b4
 	/// and ended up with: 
-	/// https://www.geeksforgeeks.org/shortest-path-for-directed-acyclic-graphs/
+	/// https://www.geeksforgeeks.org/topological-sorting/
 	/// </summary>
 	public class Graph
 	{
